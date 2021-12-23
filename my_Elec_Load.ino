@@ -81,7 +81,7 @@ void setup() {
   
   lcd.clear();
   lcd.setCursor(0,0);
-  lcd.print(" ECL2 s14322 "); 
+  lcd.print(" ECL2 s***** "); 
   lcd.setCursor(0,1);
   lcd.print("ELECTRONIC  LOAD");  
   delay(2000);
